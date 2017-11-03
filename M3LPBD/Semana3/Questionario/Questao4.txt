@@ -1,0 +1,6 @@
+Em relação aos conceitos da Programação Orientada a Objetos, relacione corretamente:
+
+Classe : é um molde de um objeto, posssuindo características e comportamentos
+Objeto : são instâncias concretas, caracterizados por atributos e métodos
+Atributos : são as características de um objeto, essas características também são conhecidas como variáveis
+Métodos : são as ações que os objetos podem exercer quando solicitados, onde podem interagir e se comunicarem com outros objetos

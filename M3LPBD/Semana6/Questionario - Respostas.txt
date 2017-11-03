@@ -1,0 +1,5 @@
+UPDATE produtos set preco = 0.5 where nome = 'Pão'
+UPDATE produtos set preco = 1.5 where nome = 'Biscoito' *
+select * from produtos where preco = 0.35
+select * from produtos where preco > 0.3
+Biscoito | Farinha | Pão de Mel

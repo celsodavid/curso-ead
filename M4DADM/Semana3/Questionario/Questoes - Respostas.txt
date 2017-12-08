@@ -1,0 +1,11 @@
+﻿1 - Em relação ao "ciclo de vida" de uma Activity, relacione corretamente:
+A) onRestart(): Chamada imediatamente antes da onStart(), quando uma Activity volta a ter o foco depois de estar em background.
+B) onStart(): É chamada imediatamente após a onCreate() – e também quando uma Activity que estava em background volta a ter foco.
+C) onCreate(): É a primeira função a ser executada quando uma Activity é lançada.
+D) onDestroy(): A última função a ser executada. Depois dela, a Activity é considerada “morta” – ou seja, nao pode mais ser relançada.
+
+2 - Em relação a uma Activity, responda corretamente:
+R: Uma aplicação Android pode ter mais de uma Activity
+
+3 - Em relação aos componentes do Android Studio, assinale a alternativa incorreta.
+R: Listview - Componente que tem por finalidade armazenar somente informações do tipo inteiro

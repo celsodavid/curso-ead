@@ -1,0 +1,14 @@
+1 - É uma plataforma de software que está revolucionando o mercado global de aplicativos para celulares. É a primeira plataforma de aplicativos 
+para telefones celulares de código aberto que se fez notar pelos maiores mercados mundiais de telefonia celular. Estamos falando do:
+R: Android
+
+2 - Em relação as bibliotecas do Android, relacione corretamente:
+R: A - SQLite (Consisteno sistema gerenciador de banco de dados (SGBD) relacional disponível para todas as aplicações.)
+   B - Surface Manager (Responsável pelo acesso ao subsistema de exibição bem como as múltiplas camadas de aplicações 2D e 3D;)
+   C - Media Libraries (Baseado no PacketVideo’s OpenCORE; são as bibliotecas que suportam os mais diversos formatos de áudio e vídeo, incluindo também imagens.)
+   D - System C library (Consiste em uma implementação derivada da biblioteca C padrão baseado no sistema (libc) do BSD sintonizada para dispositivos 
+   rodando Linux.)
+   
+3 - Em relação a arquitetura do Android, qual elemento representa: "conjunto de bibliotecas que fornece a maioria das funcionalidades disponíveis nas principais 
+bibliotecas da linguagem Java."
+R: Android Runtime  Correto

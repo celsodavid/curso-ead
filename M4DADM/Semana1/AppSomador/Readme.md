@@ -22,6 +22,6 @@
 	6. Pode ser que pessa para fazer um download de uma lib
 	7. [Solução do Bug appcompat-v7](https://stackoverflow.com/questions/42313573/failed-to-resolve-com-android-supportappcompat-v725-1-0)
 4. Correção do redenrização
-	1. ![Solução](http://i.stack.imgur.com/cEKzU.png) 
+	1. ![Solução](https://github.com/celsodavid/curso-ead/blob/master/M4DADM/Semana1/AppSomador/solucao.png) 
 
 	
